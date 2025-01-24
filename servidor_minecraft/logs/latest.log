@@ -1,25 +1,25 @@
-[24Jan2025 15:26:09.704] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[24Jan2025 15:26:09.708] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[24Jan2025 15:26:11.900] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24Jan2025 15:26:11.948] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serverparamc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[24Jan2025 15:26:12.369] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverparamc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jan2025 15:26:12.371] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverparamc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jan2025 15:26:12.371] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverparamc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jan2025 15:26:12.372] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverparamc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jan2025 15:26:12.981] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[24Jan2025 15:26:12.983] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/serverparamc/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
-[24Jan2025 15:26:12.983] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: /workspaces/serverparamc/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
-[24Jan2025 15:26:12.983] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 38 dependencies adding them to mods collection
-[24Jan2025 15:26:15.803] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Jan2025 15:26:15.929] [main/ERROR] [mixin/]: Mixin config mixins.recrafted_creatures.json does not specify "minVersion" property
-[24Jan2025 15:26:15.933] [main/ERROR] [mixin/]: Mixin config mixins.duclib.json does not specify "minVersion" property
-[24Jan2025 15:26:16.093] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[24Jan2025 15:26:16.096] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24Jan2025 15:26:16.129] [main/WARN] [mixin/]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jan2025 15:26:16.272] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jan2025 15:26:16.292] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[24Jan2025 15:26:16.305] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jan2025 15:26:16.372] [main/INFO] [Puzzles Lib/]: Loading 101 mods:
+[24Jan2025 17:03:32.023] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24Jan2025 17:03:32.027] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[24Jan2025 17:03:34.224] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Jan2025 17:03:34.284] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serverparamc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Jan2025 17:03:34.771] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverparamc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 17:03:34.773] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverparamc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 17:03:34.774] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverparamc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 17:03:34.775] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverparamc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 17:03:35.355] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[24Jan2025 17:03:35.357] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/serverparamc/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[24Jan2025 17:03:35.357] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: /workspaces/serverparamc/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
+[24Jan2025 17:03:35.357] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 38 dependencies adding them to mods collection
+[24Jan2025 17:03:38.405] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Jan2025 17:03:38.548] [main/ERROR] [mixin/]: Mixin config mixins.recrafted_creatures.json does not specify "minVersion" property
+[24Jan2025 17:03:38.551] [main/ERROR] [mixin/]: Mixin config mixins.duclib.json does not specify "minVersion" property
+[24Jan2025 17:03:38.723] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[24Jan2025 17:03:38.725] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Jan2025 17:03:38.761] [main/WARN] [mixin/]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jan2025 17:03:38.929] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jan2025 17:03:38.961] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[24Jan2025 17:03:38.977] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jan2025 17:03:39.056] [main/INFO] [Puzzles Lib/]: Loading 101 mods:
 	- advancednetherite 2.1.3
 	- advancementplaques 1.6.7
 	- amendments 1.20-1.2.14
@@ -122,21 +122,21 @@
 	- villagersellanimals 1.2.1
 	- vs_eureka 1.5.1-beta.3
 	- vsch 1.1.6
-[24Jan2025 15:26:16.386] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jan2025 15:26:16.402] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jan2025 15:26:16.407] [main/WARN] [mixin/]: Reference map 'vsch.refmap.json' for vsch.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jan2025 15:26:18.198] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
-[24Jan2025 15:26:18.199] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
-[24Jan2025 15:26:18.200] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found mixins.expcounter.json:HudMixin
-[24Jan2025 15:26:18.572] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.contraption.PitchOrientedContraptionEntity)
-[24Jan2025 15:26:18.575] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
-[24Jan2025 15:26:18.595] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
-[24Jan2025 15:26:18.599] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
-[24Jan2025 15:26:18.603] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
-[24Jan2025 15:26:18.607] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
-[24Jan2025 15:26:18.611] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
-[24Jan2025 15:26:18.624] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/attributeslib/client/AttributesLibClient (java.lang.ClassNotFoundException: dev.shadowsoffire.attributeslib.client.AttributesLibClient)
-[24Jan2025 15:26:18.820] [main/ERROR] [mixin/]: valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
+[24Jan2025 17:03:39.062] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jan2025 17:03:39.077] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jan2025 17:03:39.083] [main/WARN] [mixin/]: Reference map 'vsch.refmap.json' for vsch.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jan2025 17:03:40.839] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
+[24Jan2025 17:03:40.841] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
+[24Jan2025 17:03:40.841] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found mixins.expcounter.json:HudMixin
+[24Jan2025 17:03:41.269] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.contraption.PitchOrientedContraptionEntity)
+[24Jan2025 17:03:41.272] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[24Jan2025 17:03:41.291] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[24Jan2025 17:03:41.294] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[24Jan2025 17:03:41.297] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[24Jan2025 17:03:41.300] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[24Jan2025 17:03:41.305] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[24Jan2025 17:03:41.317] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/attributeslib/client/AttributesLibClient (java.lang.ClassNotFoundException: dev.shadowsoffire.attributeslib.client.AttributesLibClient)
+[24Jan2025 17:03:41.541] [main/ERROR] [mixin/]: valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
 org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinException: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorInterface.prepareMethod(MixinPreProcessorInterface.java:65) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.prepare(MixinPreProcessorStandard.java:187) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
@@ -174,156 +174,156 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:18.868] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[24Jan2025 15:26:23.860] [main/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ServerPlayerMixin->@Redirect::securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ServerPlayerMixin->@Redirect::railways$securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1200
-[24Jan2025 15:26:24.908] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[24Jan2025 15:26:24.908] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[24Jan2025 15:26:24.923] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zmh000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[24Jan2025 15:26:26.303] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
-[24Jan2025 15:26:26.308] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
-[24Jan2025 15:26:26.332] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
-[24Jan2025 15:26:26.334] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
-[24Jan2025 15:26:26.335] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
-[24Jan2025 15:26:26.397] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[24Jan2025 15:26:26.637] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
-[24Jan2025 15:26:26.914] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
-[24Jan2025 15:26:27.021] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[24Jan2025 15:26:27.205] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[24Jan2025 15:26:27.364] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:alcohol_sync_request
-[24Jan2025 15:26:27.366] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:drink_alcohol
-[24Jan2025 15:26:27.724] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[24Jan2025 15:26:28.022] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[24Jan2025 15:26:28.229] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
-[24Jan2025 15:26:28.504] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[24Jan2025 15:26:28.505] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[24Jan2025 15:26:28.509] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[24Jan2025 15:26:28.512] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[24Jan2025 15:26:28.519] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[24Jan2025 15:26:28.520] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[24Jan2025 15:26:28.526] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[24Jan2025 15:26:28.560] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$bja000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[24Jan2025 15:26:28.752] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[24Jan2025 15:26:28.752] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[24Jan2025 15:26:29.536] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
-[24Jan2025 15:26:29.781] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[24Jan2025 15:26:29.783] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[24Jan2025 15:26:29.788] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[24Jan2025 15:26:29.930] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
-[24Jan2025 15:26:29.948] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 1 milliseconds
-[24Jan2025 15:26:29.966] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
-[24Jan2025 15:26:29.967] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
-[24Jan2025 15:26:29.968] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
-[24Jan2025 15:26:29.968] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
-[24Jan2025 15:26:29.971] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
-[24Jan2025 15:26:29.972] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
-[24Jan2025 15:26:29.974] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
-[24Jan2025 15:26:29.975] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
-[24Jan2025 15:26:29.972] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
-[24Jan2025 15:26:29.975] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
-[24Jan2025 15:26:30.097] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
-[24Jan2025 15:26:30.171] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
-[24Jan2025 15:26:30.175] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
-[24Jan2025 15:26:30.175] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
-[24Jan2025 15:26:30.178] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
-[24Jan2025 15:26:30.179] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
-[24Jan2025 15:26:30.181] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
-[24Jan2025 15:26:30.186] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
-[24Jan2025 15:26:30.193] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
-[24Jan2025 15:26:30.214] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
-[24Jan2025 15:26:30.220] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
-[24Jan2025 15:26:30.222] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
-[24Jan2025 15:26:30.225] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
-[24Jan2025 15:26:30.253] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
-[24Jan2025 15:26:30.374] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
-[24Jan2025 15:26:30.379] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
-[24Jan2025 15:26:30.383] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[24Jan2025 15:26:30.392] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
-[24Jan2025 15:26:30.409] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
-[24Jan2025 15:26:30.428] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
-[24Jan2025 15:26:30.429] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
-[24Jan2025 15:26:30.436] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[24Jan2025 15:26:30.454] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
-[24Jan2025 15:26:30.471] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
-[24Jan2025 15:26:30.476] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
-[24Jan2025 15:26:30.478] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
-[24Jan2025 15:26:30.479] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[24Jan2025 15:26:30.606] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[24Jan2025 15:26:30.928] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[24Jan2025 15:26:31.141] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[24Jan2025 15:26:35.178] [main/INFO] [Moonlight/]: Initialized block sets in 20ms
-[24Jan2025 15:26:35.916] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[24Jan2025 15:26:35.917] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[24Jan2025 15:26:35.919] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[24Jan2025 15:26:35.919] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[24Jan2025 15:26:35.925] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[24Jan2025 15:26:36.564] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[24Jan2025 15:26:36.575] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[24Jan2025 15:26:36.578] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[24Jan2025 15:26:36.580] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[24Jan2025 15:26:37.016] [modloading-worker-0/INFO] [com.rajhab.morevanillashields_mod.morevanillashields/]: morevanillashields: This mod now runs with a config file. Feel free to use it!
-[24Jan2025 15:26:37.042] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[24Jan2025 15:26:37.062] [modloading-worker-0/INFO] [net.imasillylittleguy.cnc.CncMod/]: Loaded Critters n' Crawlers... tread lightly for there be beasts in these woods...
-[24Jan2025 15:26:37.106] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[24Jan2025 15:26:37.125] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[24Jan2025 15:26:37.154] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[24Jan2025 15:26:37.154] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[24Jan2025 15:26:37.154] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[24Jan2025 15:26:37.155] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[24Jan2025 15:26:37.155] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[24Jan2025 15:26:37.155] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[24Jan2025 15:26:37.156] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[24Jan2025 15:26:37.156] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[24Jan2025 15:26:37.156] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[24Jan2025 15:26:37.157] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[24Jan2025 15:26:37.212] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[24Jan2025 15:26:37.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[24Jan2025 15:26:37.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[24Jan2025 15:26:37.325] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[24Jan2025 15:26:37.359] [main/INFO] [journeymap/]: Initializing Packet Registries
-[24Jan2025 15:26:37.412] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[24Jan2025 15:26:37.413] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[24Jan2025 15:26:37.413] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[24Jan2025 15:26:37.414] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[24Jan2025 15:26:37.517] [main/INFO] [Moonlight/]: Initialized color sets in 76ms
-[24Jan2025 15:26:37.578] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[24Jan2025 15:26:37.578] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[24Jan2025 15:26:37.593] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[24Jan2025 15:26:37.593] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[24Jan2025 15:26:37.593] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
-[24Jan2025 15:26:37.593] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
-[24Jan2025 15:26:37.593] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
-[24Jan2025 15:26:37.639] [main/INFO] [team.lodestar.lodestone.LodestoneLib/]: Registering world event types...
-[24Jan2025 15:26:37.736] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.cookingforblockheads.compat.ForgeJadeCookingForBlockheadsPlugin
-[24Jan2025 15:26:37.745] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
-[24Jan2025 15:26:37.747] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[24Jan2025 15:26:37.747] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[24Jan2025 15:26:37.763] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[24Jan2025 15:26:37.768] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[24Jan2025 15:26:37.771] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[24Jan2025 15:26:37.773] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.7 Target: null
-[24Jan2025 15:26:37.773] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
-[24Jan2025 15:26:37.774] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
-[24Jan2025 15:26:37.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
-[24Jan2025 15:26:37.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
-[24Jan2025 15:26:37.822] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[24Jan2025 15:26:37.823] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
-[24Jan2025 15:26:37.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
-[24Jan2025 15:26:37.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
-[24Jan2025 15:26:37.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.9 Target: null
-[24Jan2025 15:26:37.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[24Jan2025 15:26:38.369] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
-[24Jan2025 15:26:38.370] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[24Jan2025 15:26:38.381] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[24Jan2025 15:26:38.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[24Jan2025 15:26:38.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
-[24Jan2025 15:26:38.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[24Jan2025 15:26:38.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
-[24Jan2025 15:26:38.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[24Jan2025 15:26:39.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[24Jan2025 15:26:39.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[24Jan2025 15:26:39.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[24Jan2025 15:26:39.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [expcounter] Starting version check at https://legacy.curseforge.com/minecraft/mc-mods/exp-counter-fabric-forge-neoforge
-[24Jan2025 15:26:39.773] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[24Jan2025 17:03:41.575] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[24Jan2025 17:03:46.385] [main/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ServerPlayerMixin->@Redirect::securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ServerPlayerMixin->@Redirect::railways$securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1200
+[24Jan2025 17:03:47.451] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[24Jan2025 17:03:47.451] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[24Jan2025 17:03:47.465] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zmh000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[24Jan2025 17:03:48.815] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
+[24Jan2025 17:03:48.832] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
+[24Jan2025 17:03:48.844] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
+[24Jan2025 17:03:48.846] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
+[24Jan2025 17:03:48.848] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
+[24Jan2025 17:03:48.918] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[24Jan2025 17:03:49.294] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[24Jan2025 17:03:49.479] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[24Jan2025 17:03:49.672] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[24Jan2025 17:03:49.999] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24Jan2025 17:03:50.104] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:alcohol_sync_request
+[24Jan2025 17:03:50.108] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:drink_alcohol
+[24Jan2025 17:03:50.505] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[24Jan2025 17:03:50.816] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[24Jan2025 17:03:51.156] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[24Jan2025 17:03:51.361] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[24Jan2025 17:03:51.368] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[24Jan2025 17:03:51.370] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[24Jan2025 17:03:51.371] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[24Jan2025 17:03:51.376] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[24Jan2025 17:03:51.378] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[24Jan2025 17:03:51.385] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[24Jan2025 17:03:51.463] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$bja000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[24Jan2025 17:03:51.645] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24Jan2025 17:03:51.645] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24Jan2025 17:03:52.217] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[24Jan2025 17:03:52.403] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[24Jan2025 17:03:52.404] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[24Jan2025 17:03:52.408] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[24Jan2025 17:03:52.553] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[24Jan2025 17:03:52.601] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[24Jan2025 17:03:52.625] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 2 milliseconds
+[24Jan2025 17:03:52.635] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[24Jan2025 17:03:52.639] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[24Jan2025 17:03:52.640] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[24Jan2025 17:03:52.647] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[24Jan2025 17:03:52.648] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[24Jan2025 17:03:52.648] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[24Jan2025 17:03:52.650] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[24Jan2025 17:03:52.651] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[24Jan2025 17:03:52.652] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[24Jan2025 17:03:52.674] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[24Jan2025 17:03:52.726] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[24Jan2025 17:03:52.729] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[24Jan2025 17:03:52.730] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[24Jan2025 17:03:52.731] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[24Jan2025 17:03:52.732] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[24Jan2025 17:03:52.733] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[24Jan2025 17:03:52.735] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[24Jan2025 17:03:52.741] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[24Jan2025 17:03:52.750] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[24Jan2025 17:03:52.752] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[24Jan2025 17:03:52.753] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[24Jan2025 17:03:52.758] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[24Jan2025 17:03:52.772] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[24Jan2025 17:03:52.906] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[24Jan2025 17:03:52.913] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[24Jan2025 17:03:52.948] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[24Jan2025 17:03:52.954] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[24Jan2025 17:03:52.981] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[24Jan2025 17:03:53.001] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[24Jan2025 17:03:53.002] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[24Jan2025 17:03:53.003] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[24Jan2025 17:03:53.014] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[24Jan2025 17:03:53.042] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[24Jan2025 17:03:53.061] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[24Jan2025 17:03:53.062] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[24Jan2025 17:03:53.063] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[24Jan2025 17:03:53.105] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[24Jan2025 17:03:53.524] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[24Jan2025 17:03:53.797] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[24Jan2025 17:03:58.101] [main/INFO] [Moonlight/]: Initialized block sets in 26ms
+[24Jan2025 17:03:58.690] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[24Jan2025 17:03:58.690] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[24Jan2025 17:03:58.692] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[24Jan2025 17:03:58.692] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[24Jan2025 17:03:58.698] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[24Jan2025 17:03:59.391] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[24Jan2025 17:03:59.402] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[24Jan2025 17:03:59.405] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[24Jan2025 17:03:59.406] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[24Jan2025 17:04:00.026] [modloading-worker-0/INFO] [com.rajhab.morevanillashields_mod.morevanillashields/]: morevanillashields: This mod now runs with a config file. Feel free to use it!
+[24Jan2025 17:04:00.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[24Jan2025 17:04:00.062] [modloading-worker-0/INFO] [net.imasillylittleguy.cnc.CncMod/]: Loaded Critters n' Crawlers... tread lightly for there be beasts in these woods...
+[24Jan2025 17:04:00.144] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[24Jan2025 17:04:00.179] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[24Jan2025 17:04:00.231] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[24Jan2025 17:04:00.233] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[24Jan2025 17:04:00.233] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[24Jan2025 17:04:00.233] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[24Jan2025 17:04:00.233] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[24Jan2025 17:04:00.233] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[24Jan2025 17:04:00.233] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[24Jan2025 17:04:00.233] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[24Jan2025 17:04:00.234] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[24Jan2025 17:04:00.234] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[24Jan2025 17:04:00.284] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[24Jan2025 17:04:00.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[24Jan2025 17:04:00.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[24Jan2025 17:04:00.368] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[24Jan2025 17:04:00.417] [main/INFO] [journeymap/]: Initializing Packet Registries
+[24Jan2025 17:04:00.447] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[24Jan2025 17:04:00.447] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[24Jan2025 17:04:00.447] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[24Jan2025 17:04:00.447] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[24Jan2025 17:04:00.524] [main/INFO] [Moonlight/]: Initialized color sets in 55ms
+[24Jan2025 17:04:00.623] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[24Jan2025 17:04:00.623] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[24Jan2025 17:04:00.623] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[24Jan2025 17:04:00.623] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[24Jan2025 17:04:00.624] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[24Jan2025 17:04:00.676] [main/INFO] [team.lodestar.lodestone.LodestoneLib/]: Registering world event types...
+[24Jan2025 17:04:00.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[24Jan2025 17:04:00.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[24Jan2025 17:04:00.794] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.cookingforblockheads.compat.ForgeJadeCookingForBlockheadsPlugin
+[24Jan2025 17:04:00.802] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[24Jan2025 17:04:00.803] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[24Jan2025 17:04:00.803] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[24Jan2025 17:04:00.818] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[24Jan2025 17:04:00.823] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[24Jan2025 17:04:00.825] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[24Jan2025 17:04:00.826] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[24Jan2025 17:04:00.945] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.7 Target: null
+[24Jan2025 17:04:00.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
+[24Jan2025 17:04:01.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
+[24Jan2025 17:04:01.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[24Jan2025 17:04:01.015] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[24Jan2025 17:04:01.015] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[24Jan2025 17:04:01.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
+[24Jan2025 17:04:01.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
+[24Jan2025 17:04:01.058] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.9 Target: null
+[24Jan2025 17:04:01.058] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[24Jan2025 17:04:01.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
+[24Jan2025 17:04:01.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[24Jan2025 17:04:01.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[24Jan2025 17:04:01.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[24Jan2025 17:04:01.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[24Jan2025 17:04:01.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[24Jan2025 17:04:01.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
+[24Jan2025 17:04:01.955] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[24Jan2025 17:04:02.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[24Jan2025 17:04:02.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[24Jan2025 17:04:02.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[24Jan2025 17:04:02.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [expcounter] Starting version check at https://legacy.curseforge.com/minecraft/mc-mods/exp-counter-fabric-forge-neoforge
+[24Jan2025 17:04:02.790] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 2 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -338,38 +338,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[24Jan2025 15:26:39.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[24Jan2025 15:26:39.918] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[24Jan2025 15:26:39.918] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[24Jan2025 15:26:39.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.19 Target: null
-[24Jan2025 15:26:39.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
-[24Jan2025 15:26:40.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
-[24Jan2025 15:26:40.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillashields] Starting version check at https://raw.githubusercontent.com/Rajhab/MoreVanillaShields-UpdateChecker/main/update.json
-[24Jan2025 15:26:40.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillashields] Found status: UP_TO_DATE Current: 1.1.3-1.20.1 Target: null
-[24Jan2025 15:26:40.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[24Jan2025 15:26:40.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[24Jan2025 15:26:40.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Jan2025 15:26:40.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.25
-[24Jan2025 15:26:40.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cnc] Starting version check at https://raw.githubusercontent.com/endcollector/critters-n-crawlers-updater/main/update.json
-[24Jan2025 15:26:40.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cnc] Found status: UP_TO_DATE Current: 2.2.2 Target: null
-[24Jan2025 15:26:40.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[24Jan2025 15:26:40.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.46 Target: null
-[24Jan2025 15:26:40.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[24Jan2025 15:26:40.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[24Jan2025 15:26:40.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[24Jan2025 15:26:40.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[24Jan2025 15:26:40.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[24Jan2025 15:26:40.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[24Jan2025 15:26:40.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[24Jan2025 15:26:40.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[24Jan2025 15:26:40.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pizzacraft] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/b916e3981957f1e6f2de99ea0aa328fa/raw
-[24Jan2025 15:26:40.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pizzacraft] Found status: UP_TO_DATE Current: 7.0.8 Target: null
-[24Jan2025 15:26:42.274] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Jan2025 15:26:46.208] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverparamc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/assets/.mcassetsroot' uses unexpected schema
-[24Jan2025 15:26:46.208] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverparamc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/data/.mcassetsroot' uses unexpected schema
-[24Jan2025 15:26:48.878] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.6.2 MC 1.20.1.jar)
-[24Jan2025 15:26:48.931] [Worker-Main-4/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
-[24Jan2025 15:26:50.327] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+[24Jan2025 17:04:02.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[24Jan2025 17:04:02.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[24Jan2025 17:04:02.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[24Jan2025 17:04:02.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.19 Target: null
+[24Jan2025 17:04:02.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
+[24Jan2025 17:04:03.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
+[24Jan2025 17:04:03.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillashields] Starting version check at https://raw.githubusercontent.com/Rajhab/MoreVanillaShields-UpdateChecker/main/update.json
+[24Jan2025 17:04:03.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillashields] Found status: UP_TO_DATE Current: 1.1.3-1.20.1 Target: null
+[24Jan2025 17:04:03.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[24Jan2025 17:04:03.054] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[24Jan2025 17:04:03.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Jan2025 17:04:03.164] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.25
+[24Jan2025 17:04:03.165] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cnc] Starting version check at https://raw.githubusercontent.com/endcollector/critters-n-crawlers-updater/main/update.json
+[24Jan2025 17:04:03.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cnc] Found status: UP_TO_DATE Current: 2.2.2 Target: null
+[24Jan2025 17:04:03.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[24Jan2025 17:04:03.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.46 Target: null
+[24Jan2025 17:04:03.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[24Jan2025 17:04:03.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[24Jan2025 17:04:03.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[24Jan2025 17:04:03.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[24Jan2025 17:04:03.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[24Jan2025 17:04:03.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[24Jan2025 17:04:03.587] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[24Jan2025 17:04:03.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[24Jan2025 17:04:03.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pizzacraft] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/b916e3981957f1e6f2de99ea0aa328fa/raw
+[24Jan2025 17:04:03.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pizzacraft] Found status: UP_TO_DATE Current: 7.0.8 Target: null
+[24Jan2025 17:04:05.390] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Jan2025 17:04:08.540] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverparamc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/assets/.mcassetsroot' uses unexpected schema
+[24Jan2025 17:04:08.540] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverparamc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/data/.mcassetsroot' uses unexpected schema
+[24Jan2025 17:04:11.301] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.6.2 MC 1.20.1.jar)
+[24Jan2025 17:04:11.337] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[24Jan2025 17:04:12.846] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -421,7 +421,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Jan2025 15:26:50.696] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/peeled_overweight_ginger_block
+[24Jan2025 17:04:13.199] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/peeled_overweight_ginger_block
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'snowyspirit:ginger'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -501,7 +501,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Jan2025 15:26:50.904] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/overweight_sliced_kiwi_block
+[24Jan2025 17:04:13.471] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/overweight_sliced_kiwi_block
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'hedgehog:kiwi'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -581,7 +581,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Jan2025 15:26:51.310] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/overweight_ginger_block
+[24Jan2025 17:04:13.949] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/overweight_ginger_block
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'snowyspirit:ginger'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -661,7 +661,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Jan2025 15:26:51.819] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/overweight_cabbage_block
+[24Jan2025 17:04:14.504] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/overweight_cabbage_block
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersdelight:cabbage'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -741,7 +741,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Jan2025 15:26:51.882] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/overweight_kiwi_block
+[24Jan2025 17:04:14.554] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/overweight_kiwi_block
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'hedgehog:kiwi'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -821,7 +821,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Jan2025 15:26:52.136] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/peeled_overweight_kiwi_block
+[24Jan2025 17:04:14.824] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/peeled_overweight_kiwi_block
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'hedgehog:kiwi'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -901,7 +901,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Jan2025 15:26:52.316] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/peeled_overweight_onion_block
+[24Jan2025 17:04:15.030] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/peeled_overweight_onion_block
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersdelight:onion'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -981,7 +981,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Jan2025 15:26:52.807] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/overweight_onion_block
+[24Jan2025 17:04:15.692] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:overweight_farming:blocks/overweight_onion_block
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersdelight:onion'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1061,16 +1061,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Jan2025 15:26:53.322] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:nickel_from_node_smelting as it's serializer returned null
-[24Jan2025 15:26:53.352] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_lead as it's serializer returned null
-[24Jan2025 15:26:53.352] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_poisonous_potato as it's serializer returned null
-[24Jan2025 15:26:53.364] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:tin_from_node_smelting as it's serializer returned null
-[24Jan2025 15:26:53.370] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_potato as it's serializer returned null
-[24Jan2025 15:26:53.377] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_cocoa as it's serializer returned null
-[24Jan2025 15:26:53.380] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_peeled_potato as it's serializer returned null
-[24Jan2025 15:26:53.381] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:apply_fullmetal_directly_to_compost as it's serializer returned null
-[24Jan2025 15:26:53.382] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe recrafted_creatures:creature_catalogue as it's serializer returned null
-[24Jan2025 15:26:53.385] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/anglers_lure
+[24Jan2025 17:04:16.170] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:nickel_from_node_smelting as it's serializer returned null
+[24Jan2025 17:04:16.198] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_lead as it's serializer returned null
+[24Jan2025 17:04:16.199] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_poisonous_potato as it's serializer returned null
+[24Jan2025 17:04:16.210] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:tin_from_node_smelting as it's serializer returned null
+[24Jan2025 17:04:16.215] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_potato as it's serializer returned null
+[24Jan2025 17:04:16.222] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_cocoa as it's serializer returned null
+[24Jan2025 17:04:16.226] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_peeled_potato as it's serializer returned null
+[24Jan2025 17:04:16.227] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:apply_fullmetal_directly_to_compost as it's serializer returned null
+[24Jan2025 17:04:16.229] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe recrafted_creatures:creature_catalogue as it's serializer returned null
+[24Jan2025 17:04:16.231] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/anglers_lure
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1099,8 +1099,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.389] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_big_onion as it's serializer returned null
-[24Jan2025 15:26:53.398] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/zephyrs_courage
+[24Jan2025 17:04:16.235] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_big_onion as it's serializer returned null
+[24Jan2025 17:04:16.245] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/zephyrs_courage
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1129,10 +1129,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.401] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_big_cocoa as it's serializer returned null
-[24Jan2025 15:26:53.401] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:malum/soul_stained_steel_knife as it's serializer returned null
-[24Jan2025 15:26:53.412] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:lead_from_node_smelting as it's serializer returned null
-[24Jan2025 15:26:53.416] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[24Jan2025 17:04:16.248] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_big_cocoa as it's serializer returned null
+[24Jan2025 17:04:16.249] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:malum/soul_stained_steel_knife as it's serializer returned null
+[24Jan2025 17:04:16.260] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:lead_from_node_smelting as it's serializer returned null
+[24Jan2025 17:04:16.267] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1170,8 +1170,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.417] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/chicken as it's serializer returned null
-[24Jan2025 15:26:53.424] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/gaias_bulwark
+[24Jan2025 17:04:16.269] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/chicken as it's serializer returned null
+[24Jan2025 17:04:16.276] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/gaias_bulwark
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1200,10 +1200,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.427] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_uranium as it's serializer returned null
-[24Jan2025 15:26:53.429] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:aluminum_from_node_blasting as it's serializer returned null
-[24Jan2025 15:26:53.429] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_osmium as it's serializer returned null
-[24Jan2025 15:26:53.430] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[24Jan2025 17:04:16.279] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_uranium as it's serializer returned null
+[24Jan2025 17:04:16.281] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:aluminum_from_node_blasting as it's serializer returned null
+[24Jan2025 17:04:16.281] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_osmium as it's serializer returned null
+[24Jan2025 17:04:16.282] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
@@ -1236,8 +1236,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.434] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_nickel as it's serializer returned null
-[24Jan2025 15:26:53.437] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/ifrits_embrace
+[24Jan2025 17:04:16.286] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_nickel as it's serializer returned null
+[24Jan2025 17:04:16.290] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/ifrits_embrace
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1266,16 +1266,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.439] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/onion as it's serializer returned null
-[24Jan2025 15:26:53.444] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/cooked_porkchop as it's serializer returned null
-[24Jan2025 15:26:53.446] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_nickel as it's serializer returned null
-[24Jan2025 15:26:53.451] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_carrot as it's serializer returned null
-[24Jan2025 15:26:53.453] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:uranium_from_node_smelting as it's serializer returned null
-[24Jan2025 15:26:53.454] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:nickel_from_node_blasting as it's serializer returned null
-[24Jan2025 15:26:53.454] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:tin_from_node_blasting as it's serializer returned null
-[24Jan2025 15:26:53.455] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/melon_take_last_half_seeds as it's serializer returned null
-[24Jan2025 15:26:53.456] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_beetroot as it's serializer returned null
-[24Jan2025 15:26:53.456] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/aethers_charm
+[24Jan2025 17:04:16.292] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/onion as it's serializer returned null
+[24Jan2025 17:04:16.297] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/cooked_porkchop as it's serializer returned null
+[24Jan2025 17:04:16.299] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_nickel as it's serializer returned null
+[24Jan2025 17:04:16.305] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_carrot as it's serializer returned null
+[24Jan2025 17:04:16.308] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:uranium_from_node_smelting as it's serializer returned null
+[24Jan2025 17:04:16.308] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:nickel_from_node_blasting as it's serializer returned null
+[24Jan2025 17:04:16.309] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:tin_from_node_blasting as it's serializer returned null
+[24Jan2025 17:04:16.310] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/melon_take_last_half_seeds as it's serializer returned null
+[24Jan2025 17:04:16.310] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_beetroot as it's serializer returned null
+[24Jan2025 17:04:16.311] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/aethers_charm
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1304,17 +1304,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.458] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:apply_violent_fullmetal_directly_to_compost as it's serializer returned null
-[24Jan2025 15:26:53.459] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:osmium_from_node_blasting as it's serializer returned null
-[24Jan2025 15:26:53.467] [main/WARN] [com.simibubi.create.Create/]: Your custom create:crushing recipe (malum:create/crushing/crush_rare_earths) has more item outputs (8) than supported (7).
-[24Jan2025 15:26:53.468] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/cheese as it's serializer returned null
-[24Jan2025 15:26:53.475] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_peeled_carrot as it's serializer returned null
-[24Jan2025 15:26:53.480] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/tomato as it's serializer returned null
-[24Jan2025 15:26:53.481] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
-[24Jan2025 15:26:53.483] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:uranium_from_node_blasting as it's serializer returned null
-[24Jan2025 15:26:53.486] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:lead_from_node_blasting as it's serializer returned null
-[24Jan2025 15:26:53.491] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:malum/spirit_crucible/repair/common/brass as it's serializer returned null
-[24Jan2025 15:26:53.491] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/earthen_might
+[24Jan2025 17:04:16.313] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:apply_violent_fullmetal_directly_to_compost as it's serializer returned null
+[24Jan2025 17:04:16.313] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:osmium_from_node_blasting as it's serializer returned null
+[24Jan2025 17:04:16.323] [main/WARN] [com.simibubi.create.Create/]: Your custom create:crushing recipe (malum:create/crushing/crush_rare_earths) has more item outputs (8) than supported (7).
+[24Jan2025 17:04:16.324] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/cheese as it's serializer returned null
+[24Jan2025 17:04:16.332] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_peeled_carrot as it's serializer returned null
+[24Jan2025 17:04:16.336] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/tomato as it's serializer returned null
+[24Jan2025 17:04:16.338] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
+[24Jan2025 17:04:16.340] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:uranium_from_node_blasting as it's serializer returned null
+[24Jan2025 17:04:16.342] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:lead_from_node_blasting as it's serializer returned null
+[24Jan2025 17:04:16.348] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:malum/spirit_crucible/repair/common/brass as it's serializer returned null
+[24Jan2025 17:04:16.348] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/earthen_might
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1343,14 +1343,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.495] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_peeled_onion as it's serializer returned null
-[24Jan2025 15:26:53.501] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_big_beetroot as it's serializer returned null
-[24Jan2025 15:26:53.502] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_golden_apple as it's serializer returned null
-[24Jan2025 15:26:53.503] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_peeled_beetroot as it's serializer returned null
-[24Jan2025 15:26:53.503] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/smoked_ham as it's serializer returned null
-[24Jan2025 15:26:53.504] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/pineapple as it's serializer returned null
-[24Jan2025 15:26:53.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_osmium as it's serializer returned null
-[24Jan2025 15:26:53.513] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/miners_rage
+[24Jan2025 17:04:16.353] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_peeled_onion as it's serializer returned null
+[24Jan2025 17:04:16.359] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_big_beetroot as it's serializer returned null
+[24Jan2025 17:04:16.361] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_golden_apple as it's serializer returned null
+[24Jan2025 17:04:16.362] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_peeled_beetroot as it's serializer returned null
+[24Jan2025 17:04:16.362] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/smoked_ham as it's serializer returned null
+[24Jan2025 17:04:16.362] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/pineapple as it's serializer returned null
+[24Jan2025 17:04:16.368] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_osmium as it's serializer returned null
+[24Jan2025 17:04:16.370] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/miners_rage
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1379,12 +1379,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.517] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_uranium as it's serializer returned null
-[24Jan2025 15:26:53.517] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/cucumber as it's serializer returned null
-[24Jan2025 15:26:53.518] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_apple as it's serializer returned null
-[24Jan2025 15:26:53.519] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:osmium_from_node_smelting as it's serializer returned null
-[24Jan2025 15:26:53.525] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:malum/spirit_crucible/repair/common/zinc as it's serializer returned null
-[24Jan2025 15:26:53.526] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[24Jan2025 17:04:16.375] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_uranium as it's serializer returned null
+[24Jan2025 17:04:16.375] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/cucumber as it's serializer returned null
+[24Jan2025 17:04:16.376] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_apple as it's serializer returned null
+[24Jan2025 17:04:16.376] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:osmium_from_node_smelting as it's serializer returned null
+[24Jan2025 17:04:16.383] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:malum/spirit_crucible/repair/common/zinc as it's serializer returned null
+[24Jan2025 17:04:16.383] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1413,11 +1413,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.528] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_onion as it's serializer returned null
-[24Jan2025 15:26:53.528] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/pepper as it's serializer returned null
-[24Jan2025 15:26:53.530] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/mushroom as it's serializer returned null
-[24Jan2025 15:26:53.531] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/melon_take_first_half_seeds as it's serializer returned null
-[24Jan2025 15:26:53.536] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/poseidons_grasp
+[24Jan2025 17:04:16.384] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_onion as it's serializer returned null
+[24Jan2025 17:04:16.385] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/pepper as it's serializer returned null
+[24Jan2025 17:04:16.386] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/mushroom as it's serializer returned null
+[24Jan2025 17:04:16.386] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/melon_take_first_half_seeds as it's serializer returned null
+[24Jan2025 17:04:16.389] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/poseidons_grasp
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1446,11 +1446,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.538] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_tin as it's serializer returned null
-[24Jan2025 15:26:53.540] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_big_carrot as it's serializer returned null
-[24Jan2025 15:26:53.540] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_tin as it's serializer returned null
-[24Jan2025 15:26:53.552] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:aluminum_from_node_smelting as it's serializer returned null
-[24Jan2025 15:26:53.554] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/gluttony
+[24Jan2025 17:04:16.391] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_tin as it's serializer returned null
+[24Jan2025 17:04:16.393] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_big_carrot as it's serializer returned null
+[24Jan2025 17:04:16.394] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_tin as it's serializer returned null
+[24Jan2025 17:04:16.407] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:aluminum_from_node_smelting as it's serializer returned null
+[24Jan2025 17:04:16.410] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe malum:jeed/gluttony
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1479,117 +1479,272 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Jan2025 15:26:53.555] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_melon as it's serializer returned null
-[24Jan2025 15:26:53.556] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_big_potato as it's serializer returned null
-[24Jan2025 15:26:53.558] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_aluminum as it's serializer returned null
-[24Jan2025 15:26:53.562] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_aluminum as it's serializer returned null
-[24Jan2025 15:26:53.562] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_lead as it's serializer returned null
-[24Jan2025 15:26:53.562] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_cabbage as it's serializer returned null
-[24Jan2025 15:26:53.563] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/cooked_chicken as it's serializer returned null
-[24Jan2025 15:26:53.564] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_baked_potato as it's serializer returned null
-[24Jan2025 15:26:53.568] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 48 recipes
-[24Jan2025 15:26:53.613] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement overweight_farming:husbandry/unpeel_vegetables: Failed to parse 'location' field
-[24Jan2025 15:26:53.624] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/impetus_creation_zinc: Missing advancement, expected to find a JsonObject
-[24Jan2025 15:26:53.629] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/impetus_creation_silver: Missing advancement, expected to find a JsonObject
-[24Jan2025 15:26:53.634] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost: Unknown item id 'farmersdelight:straw'
-[24Jan2025 15:26:53.636] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/node_focusing_silver: Missing advancement, expected to find a JsonObject
-[24Jan2025 15:26:53.653] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/node_focusing_zinc: Missing advancement, expected to find a JsonObject
-[24Jan2025 15:26:53.686] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/zinc_from_node_blasting: Advancement criteria cannot be empty
-[24Jan2025 15:26:53.722] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement overweight_farming:husbandry/peel_overweight_onion: Failed to parse 'location' field
-[24Jan2025 15:26:53.734] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement overweight_farming:recipes/apply_fullmetal_directly_to_compost: Unknown item id 'farmersdelight:straw'
-[24Jan2025 15:26:53.758] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/silver_from_node_blasting: Advancement criteria cannot be empty
-[24Jan2025 15:26:53.759] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/zinc_from_node_smelting: Advancement criteria cannot be empty
-[24Jan2025 15:26:53.782] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/silver_from_node_smelting: Advancement criteria cannot be empty
-[24Jan2025 15:26:53.823] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7497 advancements
-[24Jan2025 15:26:53.844] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 15 curio slots
-[24Jan2025 15:26:53.854] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[24Jan2025 15:26:53.881] [main/INFO] [com.sammy.malum.MalumMod/]: Ritual with registry name: malum:cthonic_conversion does not exist
-[24Jan2025 15:26:53.923] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: netherexp:sounds/polished_blackstone
-[24Jan2025 15:26:56.766] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
-[24Jan2025 15:26:57.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24Jan2025 15:26:57.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Jan2025 15:26:57.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Jan2025 15:26:57.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Jan2025 15:26:57.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Jan2025 15:26:57.267] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Jan2025 15:26:57.344] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Jan2025 15:26:57.345] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Jan2025 15:26:57.345] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Jan2025 15:26:57.345] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Jan2025 15:26:57.365] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[24Jan2025 15:26:57.367] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[24Jan2025 15:26:57.368] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[24Jan2025 15:26:57.368] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
-[24Jan2025 15:26:57.369] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[24Jan2025 15:26:57.372] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[24Jan2025 15:26:57.376] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[24Jan2025 15:26:57.378] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[24Jan2025 15:26:57.379] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[24Jan2025 15:26:57.564] [Server thread/INFO] [Framework/]: Loading server configs...
-[24Jan2025 15:26:57.597] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[24Jan2025 15:26:57.598] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[24Jan2025 15:26:57.606] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[24Jan2025 15:26:58.005] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[24Jan2025 15:26:58.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Jan2025 15:26:58.132] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1200
-[24Jan2025 15:26:58.928] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
-[24Jan2025 15:27:04.127] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:05.128] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:06.129] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:07.130] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:08.131] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:09.132] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:10.133] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:11.134] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:12.030] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:uranus_lands. Changing its world height!
-[24Jan2025 15:27:12.136] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:12.417] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:glacio_lands. Changing its world height!
-[24Jan2025 15:27:12.904] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:venuslands. Changing its world height!
-[24Jan2025 15:27:13.137] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:13.382] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:mercury_wasteland. Changing its world height!
-[24Jan2025 15:27:13.557] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:europa_lands. Changing its world height!
-[24Jan2025 15:27:13.885] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:saturn_lands. Changing its world height!
-[24Jan2025 15:27:14.138] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:15.140] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:16.143] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:17.145] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:18.147] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:19.148] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:20.150] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:21.151] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:22.153] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:23.156] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:24.157] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:25.025] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:solar_system. Changing its world height!
-[24Jan2025 15:27:25.157] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:j_1900. Changing its world height!
-[24Jan2025 15:27:25.159] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:25.271] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:j_1407blands. Changing its world height!
-[24Jan2025 15:27:25.377] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:neptune_lands. Changing its world height!
-[24Jan2025 15:27:26.160] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:26.712] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:gaia_bh_1. Changing its world height!
-[24Jan2025 15:27:26.768] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:b_1400_centauri. Changing its world height!
-[24Jan2025 15:27:27.004] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:marslands. Changing its world height!
-[24Jan2025 15:27:27.077] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:jupiterlands. Changing its world height!
-[24Jan2025 15:27:27.129] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:alpha_system. Changing its world height!
-[24Jan2025 15:27:27.160] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:27.199] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:earth_moon. Changing its world height!
-[24Jan2025 15:27:27.290] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:plutowastelands. Changing its world height!
-[24Jan2025 15:27:27.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Jan2025 15:27:27.383] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 15:27:27.862] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 15:27:28.161] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:28.914] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[24Jan2025 15:27:28.915] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[24Jan2025 15:27:29.162] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[24Jan2025 15:27:29.279] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1917 ms
-[24Jan2025 15:27:29.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (31.921s)! For help, type "help"
-[24Jan2025 15:27:29.381] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Jan2025 15:27:29.452] [Server thread/INFO] [com.rajhab.morevanillashields_mod.morevanillashields/]: morevanillashields: This mod is now running on a server. Please report any error or bugs.
-[24Jan2025 15:27:29.473] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[24Jan2025 15:27:29.474] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[24Jan2025 15:27:29.488] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[24Jan2025 15:27:29.488] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[24Jan2025 15:27:29.489] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[24Jan2025 15:27:29.490] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
-[24Jan2025 15:27:29.490] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/serverparamc/servidor_minecraft/./config/infernalmobs.cfg
-[24Jan2025 15:27:30.163] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:16.411] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_melon as it's serializer returned null
+[24Jan2025 17:04:16.413] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/peel_big_potato as it's serializer returned null
+[24Jan2025 17:04:16.415] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:impetus_creation_aluminum as it's serializer returned null
+[24Jan2025 17:04:16.421] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_aluminum as it's serializer returned null
+[24Jan2025 17:04:16.421] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe malum:node_focusing_lead as it's serializer returned null
+[24Jan2025 17:04:16.422] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_cabbage as it's serializer returned null
+[24Jan2025 17:04:16.422] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pizzacraft:farmersdelight/cooked_chicken as it's serializer returned null
+[24Jan2025 17:04:16.423] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe overweight_farming:cutting/breakdown_baked_potato as it's serializer returned null
+[24Jan2025 17:04:16.428] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 48 recipes
+[24Jan2025 17:04:16.470] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement overweight_farming:husbandry/unpeel_vegetables: Failed to parse 'location' field
+[24Jan2025 17:04:16.477] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/impetus_creation_zinc: Missing advancement, expected to find a JsonObject
+[24Jan2025 17:04:16.482] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/impetus_creation_silver: Missing advancement, expected to find a JsonObject
+[24Jan2025 17:04:16.489] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost: Unknown item id 'farmersdelight:straw'
+[24Jan2025 17:04:16.492] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/node_focusing_silver: Missing advancement, expected to find a JsonObject
+[24Jan2025 17:04:16.508] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/node_focusing_zinc: Missing advancement, expected to find a JsonObject
+[24Jan2025 17:04:16.526] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/zinc_from_node_blasting: Advancement criteria cannot be empty
+[24Jan2025 17:04:16.546] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement overweight_farming:husbandry/peel_overweight_onion: Failed to parse 'location' field
+[24Jan2025 17:04:16.560] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement overweight_farming:recipes/apply_fullmetal_directly_to_compost: Unknown item id 'farmersdelight:straw'
+[24Jan2025 17:04:16.585] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/silver_from_node_blasting: Advancement criteria cannot be empty
+[24Jan2025 17:04:16.586] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/zinc_from_node_smelting: Advancement criteria cannot be empty
+[24Jan2025 17:04:16.610] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement malum:recipes/silver_from_node_smelting: Advancement criteria cannot be empty
+[24Jan2025 17:04:16.669] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7497 advancements
+[24Jan2025 17:04:16.692] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 15 curio slots
+[24Jan2025 17:04:16.701] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[24Jan2025 17:04:16.722] [main/INFO] [com.sammy.malum.MalumMod/]: Ritual with registry name: malum:cthonic_conversion does not exist
+[24Jan2025 17:04:16.747] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: netherexp:sounds/polished_blackstone
+[24Jan2025 17:04:19.473] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
+[24Jan2025 17:04:19.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Jan2025 17:04:19.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Jan2025 17:04:19.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Jan2025 17:04:19.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Jan2025 17:04:20.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Jan2025 17:04:20.039] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Jan2025 17:04:20.116] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Jan2025 17:04:20.117] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Jan2025 17:04:20.117] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Jan2025 17:04:20.117] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Jan2025 17:04:20.136] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[24Jan2025 17:04:20.138] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[24Jan2025 17:04:20.139] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[24Jan2025 17:04:20.140] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[24Jan2025 17:04:20.145] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[24Jan2025 17:04:20.147] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[24Jan2025 17:04:20.147] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Jan2025 17:04:20.148] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[24Jan2025 17:04:20.382] [Server thread/INFO] [Framework/]: Loading server configs...
+[24Jan2025 17:04:20.432] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[24Jan2025 17:04:20.433] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[24Jan2025 17:04:20.442] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[24Jan2025 17:04:20.921] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[24Jan2025 17:04:20.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Jan2025 17:04:21.066] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1200
+[24Jan2025 17:04:21.876] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
+[24Jan2025 17:04:26.948] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:27.951] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:28.952] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:29.953] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:30.953] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:31.955] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:32.956] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:33.959] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:34.781] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:venuslands. Changing its world height!
+[24Jan2025 17:04:34.959] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:35.427] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:plutowastelands. Changing its world height!
+[24Jan2025 17:04:35.961] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:36.963] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:37.958] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:solar_system. Changing its world height!
+[24Jan2025 17:04:37.964] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:38.426] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:neptune_lands. Changing its world height!
+[24Jan2025 17:04:38.619] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:mercury_wasteland. Changing its world height!
+[24Jan2025 17:04:38.896] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:europa_lands. Changing its world height!
+[24Jan2025 17:04:38.965] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:39.287] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:jupiterlands. Changing its world height!
+[24Jan2025 17:04:39.639] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:gaia_bh_1. Changing its world height!
+[24Jan2025 17:04:39.906] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:j_1407blands. Changing its world height!
+[24Jan2025 17:04:39.972] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:40.077] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:b_1400_centauri. Changing its world height!
+[24Jan2025 17:04:40.520] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:earth_moon. Changing its world height!
+[24Jan2025 17:04:40.974] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:41.975] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:42.980] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:43.982] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:44.984] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:46.040] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:47.049] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:48.050] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:49.050] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:49.189] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:glacio_lands. Changing its world height!
+[24Jan2025 17:04:49.311] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:uranus_lands. Changing its world height!
+[24Jan2025 17:04:49.379] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:j_1900. Changing its world height!
+[24Jan2025 17:04:49.462] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:marslands. Changing its world height!
+[24Jan2025 17:04:49.521] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:alpha_system. Changing its world height!
+[24Jan2025 17:04:49.605] [Server thread/INFO] [vsch/]: [VSCH]: Found cosmos dimension: cosmos:saturn_lands. Changing its world height!
+[24Jan2025 17:04:49.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Jan2025 17:04:49.689] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 17:04:50.051] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:50.169] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 17:04:51.052] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:51.322] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[24Jan2025 17:04:51.325] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[24Jan2025 17:04:51.670] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[24Jan2025 17:04:51.816] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2147 ms
+[24Jan2025 17:04:51.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (31.686s)! For help, type "help"
+[24Jan2025 17:04:51.905] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Jan2025 17:04:51.957] [Server thread/INFO] [com.rajhab.morevanillashields_mod.morevanillashields/]: morevanillashields: This mod is now running on a server. Please report any error or bugs.
+[24Jan2025 17:04:51.973] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[24Jan2025 17:04:51.973] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[24Jan2025 17:04:51.986] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[24Jan2025 17:04:51.987] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[24Jan2025 17:04:51.987] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[24Jan2025 17:04:51.988] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[24Jan2025 17:04:51.988] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/serverparamc/servidor_minecraft/./config/infernalmobs.cfg
+[24Jan2025 17:04:52.053] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:04:53.054] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Jan2025 17:05:58.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AOSBIK[/127.139.21.216:53821] logged in with entity id 675 at (-2.5, 65.0, -3.5)
+[24Jan2025 17:05:59.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK joined the game
+[24Jan2025 17:05:59.518] [Server thread/INFO] [Jade/]: Syncing config to AOSBIK (81694b00-8d6f-3d43-9e8d-a4ce009c2300)
+[24Jan2025 17:05:59.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Ice and Fire]
+[24Jan2025 17:05:59.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Critters n' Crawlers]
+[24Jan2025 17:06:00.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[24Jan2025 17:06:57.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] oal chavo
+[24Jan2025 17:07:04.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> calla
+[24Jan2025 17:07:16.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gay
+[24Jan2025 17:07:31.511] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[24Jan2025 17:07:31.512] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[24Jan2025 17:07:31.512] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[24Jan2025 17:07:31.512] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[24Jan2025 17:07:33.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Suit Up]
+[24Jan2025 17:07:34.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Acquire Hardware]
+[24Jan2025 17:08:11.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Dungeon Now Loading]
+[24Jan2025 17:08:20.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Isn't It Iron Pick]
+[24Jan2025 17:09:10.870] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[24Jan2025 17:09:10.871] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[24Jan2025 17:09:10.871] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[24Jan2025 17:09:10.871] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[24Jan2025 17:09:10.871] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[24Jan2025 17:09:10.872] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[24Jan2025 17:09:34.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cattyaya[/127.139.182.176:45085] logged in with entity id 1384 at (-9.5, 64.0, -1.5)
+[24Jan2025 17:09:35.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya joined the game
+[24Jan2025 17:09:35.553] [Server thread/INFO] [Jade/]: Syncing config to Cattyaya (759b08f7-ad39-37c0-8591-ad182799953b)
+[24Jan2025 17:09:35.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya has made the advancement [Ice and Fire]
+[24Jan2025 17:09:35.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya has made the advancement [Critters n' Crawlers]
+[24Jan2025 17:11:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya has made the advancement [Dungeon Now Loading]
+[24Jan2025 17:11:42.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Surge Protector]
+[24Jan2025 17:11:50.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zitroo[/127.81.187.143:41621] logged in with entity id 1829 at (-9.5, 64.0, 5.5)
+[24Jan2025 17:11:51.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo joined the game
+[24Jan2025 17:11:52.075] [Server thread/INFO] [Jade/]: Syncing config to Zitroo (140917c5-1b47-31ef-bc0f-8b22892b6012)
+[24Jan2025 17:11:52.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo has made the advancement [Ice and Fire]
+[24Jan2025 17:11:52.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo has made the advancement [Critters n' Crawlers]
+[24Jan2025 17:12:46.719] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-317.1037499308586, 57.9825000166893, -456.1037499308586] -> [708.1037499308586, 64.71749997138977, 569.1037499308586] returning empty list! this might break things
+[24Jan2025 17:12:48.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Monster Hunter]
+[24Jan2025 17:12:51.749] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-317.15878068888924, 53.60249549847185, -459.4326039886944] -> [708.048719172828, 60.33749545317232, 565.7748958730228] returning empty list! this might break things
+[24Jan2025 17:12:56.757] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-324.3871573909271, 58.000019182358955, -457.9429425348505] -> [700.8203424707901, 64.73501913705942, 567.2645573268668] returning empty list! this might break things
+[24Jan2025 17:13:01.814] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-317.15878068888924, 53.60249549847185, -459.4326039886944] -> [708.048719172828, 60.33749545317232, 565.7748958730228] returning empty list! this might break things
+[24Jan2025 17:13:06.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya has made the advancement [Acquire Hardware]
+[24Jan2025 17:13:06.862] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-324.3871573909271, 58.000019182358955, -457.9429425348505] -> [700.8203424707901, 64.73501913705942, 567.2645573268668] returning empty list! this might break things
+[24Jan2025 17:13:07.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya has made the advancement [Diamonds!]
+[24Jan2025 17:13:11.919] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-317.15878068888924, 53.60249549847185, -459.4326039886944] -> [708.048719172828, 60.33749545317232, 565.7748958730228] returning empty list! this might break things
+[24Jan2025 17:13:16.930] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-317.15878068888924, 53.60249549847185, -459.4326039886944] -> [708.048719172828, 60.33749545317232, 565.7748958730228] returning empty list! this might break things
+[24Jan2025 17:14:33.925] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-287.1037499308586, 34.9825000166893, -701.1037499308586] -> [738.1037499308586, 41.71749997138977, 324.1037499308586] returning empty list! this might break things
+[24Jan2025 17:14:39.000] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-290.1196659662431, 34.99777037801362, -702.3774310572727] -> [735.0878338954742, 41.73277033271409, 322.8300688044445] returning empty list! this might break things
+[24Jan2025 17:14:44.031] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-299.1037499308586, 58.15250001668939, -796.1037499308586] -> [726.1037499308586, 64.88749997138986, 229.1037499308586] returning empty list! this might break things
+[24Jan2025 17:14:49.061] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-291.0, 34.99967632761337, -703.219010744769] -> [734.2074998617172, 41.73467628231384, 321.98848911694824] returning empty list! this might break things
+[24Jan2025 17:14:54.068] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-291.0, 34.99967632761337, -703.219010744769] -> [734.2074998617172, 41.73467628231384, 321.98848911694824] returning empty list! this might break things
+[24Jan2025 17:14:57.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Recrafted Creatures]
+[24Jan2025 17:14:59.075] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-291.0, 34.99967632761337, -703.219010744769] -> [734.2074998617172, 41.73467628231384, 321.98848911694824] returning empty list! this might break things
+[24Jan2025 17:15:00.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Hog Wild!]
+[24Jan2025 17:15:04.114] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-255.23937816158758, 57.64483365024891, -642.0972302826106] -> [769.9681217001296, 64.37983360494938, 383.11026957910667] returning empty list! this might break things
+[24Jan2025 17:15:09.161] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-291.0, 34.99967632761337, -703.219010744769] -> [734.2074998617172, 41.73467628231384, 321.98848911694824] returning empty list! this might break things
+[24Jan2025 17:15:14.163] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-219.1037499308586, 56.48750001669007, -595.1037499308586] -> [806.1037499308586, 63.22249997139054, 430.1037499308586] returning empty list! this might break things
+[24Jan2025 17:15:19.208] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-256.3118762863285, 58.09223481123489, -646.1205652659003] -> [768.8956235753888, 64.82723476593536, 379.08693459581696] returning empty list! this might break things
+[24Jan2025 17:15:24.209] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-256.3118762863285, 58.592234811235144, -646.1205652659003] -> [768.8956235753888, 65.32723476593561, 379.08693459581696] returning empty list! this might break things
+[24Jan2025 17:15:29.215] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-256.3118762863285, 59.0922348112354, -646.1205652659003] -> [768.8956235753888, 65.82723476593587, 379.08693459581696] returning empty list! this might break things
+[24Jan2025 17:15:29.264] [Server thread/WARN] [tombstone/]: The death event of the player AOSBIK was canceled by another mod
+[24Jan2025 17:15:29.286] [Server thread/INFO] [tombstone/]: The player AOSBIK has successfully been saved
+[24Jan2025 17:15:30.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattyaya lost connection: Disconnected
+[24Jan2025 17:15:30.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya left the game
+[24Jan2025 17:15:34.260] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-291.0, 34.99967632761337, -703.219010744769] -> [734.2074998617172, 41.73467628231384, 321.98848911694824] returning empty list! this might break things
+[24Jan2025 17:15:39.260] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-219.1037499308586, 58.997500016691355, -595.1037499308586] -> [806.1037499308586, 65.73249997139183, 430.1037499308586] returning empty list! this might break things
+[24Jan2025 17:15:44.262] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-228.1037499308586, 58.06250001668934, -597.1037499308586] -> [797.1037499308586, 64.79749997138981, 428.1037499308586] returning empty list! this might break things
+[24Jan2025 17:15:49.305] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-256.3118762863285, 59.064127697840654, -646.1205652659003] -> [768.8956235753888, 65.79912765254113, 379.08693459581696] returning empty list! this might break things
+[24Jan2025 17:15:54.305] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-256.3118762863285, 59.064127697840654, -646.1205652659003] -> [768.8956235753888, 65.79912765254113, 379.08693459581696] returning empty list! this might break things
+[24Jan2025 17:15:59.305] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-256.3118762863285, 59.064127697840654, -646.1205652659003] -> [768.8956235753888, 65.79912765254113, 379.08693459581696] returning empty list! this might break things
+[24Jan2025 17:16:04.357] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-221.87192018764057, 58.99989241909424, -596.9534649551929] -> [803.3355796740766, 65.73489237379471, 428.2540349065244] returning empty list! this might break things
+[24Jan2025 17:16:09.357] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-221.87192018764057, 58.99989241909424, -596.9534649551929] -> [803.3355796740766, 65.73489237379471, 428.2540349065244] returning empty list! this might break things
+[24Jan2025 17:16:14.360] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-221.87192018764057, 58.99989241909424, -596.9534649551929] -> [803.3355796740766, 65.73489237379471, 428.2540349065244] returning empty list! this might break things
+[24Jan2025 17:16:19.405] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-256.3118762863285, 59.064127697840654, -646.1205652659003] -> [768.8956235753888, 65.79912765254113, 379.08693459581696] returning empty list! this might break things
+[24Jan2025 17:16:24.408] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-256.3118762863285, 59.064127697840654, -646.1205652659003] -> [768.8956235753888, 65.79912765254113, 379.08693459581696] returning empty list! this might break things
+[24Jan2025 17:16:29.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK was slain by Giant Boar
+[24Jan2025 17:16:29.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Your First Grave]
+[24Jan2025 17:16:29.506] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-256.3118762863285, 59.064127697840654, -646.1205652659003] -> [768.8956235753888, 65.79912765254113, 379.08693459581696] returning empty list! this might break things
+[24Jan2025 17:16:34.508] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-256.3118762863285, 59.064127697840654, -646.1205652659003] -> [768.8956235753888, 65.79912765254113, 379.08693459581696] returning empty list! this might break things
+[24Jan2025 17:16:39.559] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-233.1193150883259, 54.00000002584946, -611.2747356825744] -> [792.0881847733913, 60.73499998054993, 413.9327641791428] returning empty list! this might break things
+[24Jan2025 17:16:44.559] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-232.93532732854584, 53.97885283569315, -609.3778251986724] -> [792.2721725331714, 60.71385279039362, 415.8296746630448] returning empty list! this might break things
+[24Jan2025 17:16:49.605] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-256.3118762863285, 59.064127697840654, -646.1205652659003] -> [768.8956235753888, 65.79912765254113, 379.08693459581696] returning empty list! this might break things
+[24Jan2025 17:16:54.612] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-357.1037499308586, 57.08500000000004, -466.1037499308586] -> [668.1037499308586, 63.81999995470051, 559.1037499308586] returning empty list! this might break things
+[24Jan2025 17:17:00.111] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-363.0928729742022, 57.0, -466.4988607992817] -> [662.114626887515, 63.73499995470047, 558.7086390624355] returning empty list! this might break things
+[24Jan2025 17:17:05.919] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-258.1037499308586, 56.9825000166893, -640.1037499308586] -> [767.1037499308586, 63.71749997138977, 385.1037499308586] returning empty list! this might break things
+[24Jan2025 17:17:10.958] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-350.05903136898894, 59.212887801609625, -485.540978045] -> [675.1484684927283, 65.9478877563101, 539.6665218167172] returning empty list! this might break things
+[24Jan2025 17:17:16.015] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-247.91890565268687, 58.16176094283127, -641.9577449468358] -> [777.2885942090304, 64.89676089753175, 383.24975491488146] returning empty list! this might break things
+[24Jan2025 17:17:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has completed the challenge [Hunt of a Lifetime!]
+[24Jan2025 17:17:21.055] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-356.00830726047195, 59.00000001295852, -476.77667606678375] -> [669.1991926012453, 65.734999967659, 548.4308237949334] returning empty list! this might break things
+[24Jan2025 17:17:26.110] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-247.91890565268687, 59.17176094283179, -641.9577449468358] -> [777.2885942090304, 65.90676089753225, 383.24975491488146] returning empty list! this might break things
+[24Jan2025 17:17:31.112] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-232.7856282194972, 54.21929476276272, -610.2943706061822] -> [792.42187164222, 60.95429471746319, 414.913129255535] returning empty list! this might break things
+[24Jan2025 17:17:36.113] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-232.7856282194972, 54.21929476276272, -610.2943706061822] -> [792.42187164222, 60.95429471746319, 414.913129255535] returning empty list! this might break things
+[24Jan2025 17:17:41.114] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-303.86403300023807, 57.0, -715.4000509217663] -> [721.3434668614791, 63.73499995470047, 309.80744893995103] returning empty list! this might break things
+[24Jan2025 17:17:46.159] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-359.7142613794029, 58.23368108098835, -465.25799481576706] -> [665.4932384823144, 64.96868103568882, 559.9495050459502] returning empty list! this might break things
+[24Jan2025 17:17:51.161] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-289.93292156043196, 59.08335747643334, -701.8825847100038] -> [735.2745783012853, 65.81835743113382, 323.32491515171347] returning empty list! this might break things
+[24Jan2025 17:17:56.206] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-361.5115791336169, 58.06901714282622, -461.7204132347099] -> [663.6959207281003, 64.8040170975267, 563.4870866270073] returning empty list! this might break things
+[24Jan2025 17:18:01.209] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-340.94618685983323, 56.797036454632334, -472.02077993807643] -> [684.261313001884, 63.532036409332804, 553.1867199236408] returning empty list! this might break things
+[24Jan2025 17:18:06.210] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-340.94618685983323, 56.797036454632334, -472.02077993807643] -> [684.261313001884, 63.532036409332804, 553.1867199236408] returning empty list! this might break things
+[24Jan2025 17:18:11.253] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-359.7142613794029, 58.23368108098835, -465.25799481576706] -> [665.4932384823144, 64.96868103568882, 559.9495050459502] returning empty list! this might break things
+[24Jan2025 17:18:16.256] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-348.68624401050414, 56.93292261169431, -474.6009197324989] -> [676.521255851213, 63.66792256639478, 550.6065801292183] returning empty list! this might break things
+[24Jan2025 17:18:21.257] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-348.31232585142436, 56.95632289449676, -473.8574280209454] -> [676.8951740102929, 63.69132284919723, 551.3500718407718] returning empty list! this might break things
+[24Jan2025 17:18:26.304] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-351.3585254107569, 59.0, -456.4362249569161] -> [673.8489744509603, 65.73499995470047, 568.7712749048012] returning empty list! this might break things
+[24Jan2025 17:18:31.305] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-351.3494734730325, 59.0, -458.49915148605845] -> [673.8580263886847, 65.73499995470047, 566.7083483756588] returning empty list! this might break things
+[24Jan2025 17:18:36.306] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-343.8942845502061, 56.28037328470043, -478.2670290803023] -> [681.3132153115112, 63.0153732394009, 546.9404707814149] returning empty list! this might break things
+[24Jan2025 17:18:41.307] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-338.42324070653683, 58.00107644810199, -472.5410107879892] -> [686.7842591551804, 64.73607640280247, 552.666489073728] returning empty list! this might break things
+[24Jan2025 17:18:43.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo has made the advancement [Dungeon Now Loading]
+[24Jan2025 17:18:46.353] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-359.4126938343347, 57.123736507202175, -478.11089690495646] -> [665.7948060273825, 63.858736461902645, 547.0966029567608] returning empty list! this might break things
+[24Jan2025 17:18:51.354] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-359.4126938343347, 57.123736507202175, -478.11089690495646] -> [665.7948060273825, 63.858736461902645, 547.0966029567608] returning empty list! this might break things
+[24Jan2025 17:18:56.403] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-346.7932169447778, 57.0, -467.6551496673595] -> [678.4142829169394, 63.73499995470047, 557.5523501943577] returning empty list! this might break things
+[24Jan2025 17:19:01.405] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-346.7932169447778, 57.0, -467.6551496673595] -> [678.4142829169394, 63.73499995470047, 557.5523501943577] returning empty list! this might break things
+[24Jan2025 17:19:06.408] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-257.7157308846926, 56.12274900578055, -424.6171958900628] -> [767.4917689770245, 62.85774896048102, 600.5903039716544] returning empty list! this might break things
+[24Jan2025 17:19:08.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo has made the advancement [Stone Age]
+[24Jan2025 17:19:11.413] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-254.91478038088394, 55.99937219038173, -429.1526288481362] -> [770.2927194808333, 62.7343721450822, 596.0548710135811] returning empty list! this might break things
+[24Jan2025 17:19:16.453] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-359.4126938343347, 57.123736507202175, -478.11089690495646] -> [665.7948060273825, 63.858736461902645, 547.0966029567608] returning empty list! this might break things
+[24Jan2025 17:19:21.460] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-342.79337870967674, 57.02371538674662, -473.6690319295622] -> [682.4141211520405, 63.75871534144709, 551.5384679321551] returning empty list! this might break things
+[24Jan2025 17:19:26.463] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-260.32820620291375, 58.095435375462976, -423.13965369166715] -> [764.8792936588035, 64.83043533016345, 602.0678461700501] returning empty list! this might break things
+[24Jan2025 17:19:31.559] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-347.2451281266421, 54.84344734331836, -482.09148332179257] -> [677.9623717350751, 61.57844729801883, 543.1160165399247] returning empty list! this might break things
+[24Jan2025 17:19:36.569] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-260.32820620291375, 59.10543537546349, -423.13965369166715] -> [764.8792936588035, 65.84043533016396, 602.0678461700501] returning empty list! this might break things
+[24Jan2025 17:19:41.610] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-343.9105294342289, 59.00002012104117, -471.9101486654446] -> [681.2969704274883, 65.73502007574163, 553.2973511962726] returning empty list! this might break things
+[24Jan2025 17:19:46.611] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-346.51086630610206, 57.00064928896013, -472.6846272333178] -> [678.6966335556151, 63.7356492436606, 552.5228726283995] returning empty list! this might break things
+[24Jan2025 17:19:51.660] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-260.32820620291375, 59.06232826206874, -423.13965369166715] -> [764.8792936588035, 65.79732821676922, 602.0678461700501] returning empty list! this might break things
+[24Jan2025 17:19:52.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cattyaya[/127.139.182.176:51131] logged in with entity id 4734 at (38.19600679707979, 67.0, 25.718513445466407)
+[24Jan2025 17:19:53.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya joined the game
+[24Jan2025 17:19:53.930] [Server thread/INFO] [Jade/]: Syncing config to Cattyaya (759b08f7-ad39-37c0-8591-ad182799953b)
+[24Jan2025 17:19:56.759] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-260.32820620291375, 59.06232826206874, -423.13965369166715] -> [764.8792936588035, 65.79732821676922, 602.0678461700501] returning empty list! this might break things
+[24Jan2025 17:19:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> puto gei
+[24Jan2025 17:20:01.804] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-347.8301735276632, 49.35649052403024, -488.2708555772862] -> [677.377326334054, 56.09149047873071, 536.9366442844309] returning empty list! this might break things
+[24Jan2025 17:20:05.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> gustembo
+[24Jan2025 17:20:05.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo has made the advancement [Getting an Upgrade]
+[24Jan2025 17:20:06.854] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-260.32820620291375, 59.06232826206874, -423.13965369166715] -> [764.8792936588035, 65.79732821676922, 602.0678461700501] returning empty list! this might break things
+[24Jan2025 17:20:11.857] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-260.32820620291375, 59.06232826206874, -423.13965369166715] -> [764.8792936588035, 65.79732821676922, 602.0678461700501] returning empty list! this might break things
+[24Jan2025 17:20:16.865] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-260.32820620291375, 59.06232826206874, -423.13965369166715] -> [764.8792936588035, 65.79732821676922, 602.0678461700501] returning empty list! this might break things
+[24Jan2025 17:20:21.904] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-347.8301735276632, 49.35649052403024, -488.2708555772862] -> [677.377326334054, 56.09149047873071, 536.9366442844309] returning empty list! this might break things
+[24Jan2025 17:20:26.910] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-347.8301735276632, 49.35649052403024, -488.2708555772862] -> [677.377326334054, 56.09149047873071, 536.9366442844309] returning empty list! this might break things
+[24Jan2025 17:20:31.911] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-350.79186257520877, 53.0792363043431, -480.69851870538747] -> [674.4156372865084, 59.81423625904357, 544.5089811563297] returning empty list! this might break things
+[24Jan2025 17:20:36.964] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-348.57108032513736, 56.23965019334233, -474.59106627748776] -> [676.6364195365799, 62.9746501480428, 550.6164335842294] returning empty list! this might break things
+[24Jan2025 17:20:42.010] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-350.79186257520877, 53.0792363043431, -480.69851870538747] -> [674.4156372865084, 59.81423625904357, 544.5089811563297] returning empty list! this might break things
+[24Jan2025 17:20:47.012] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-350.79186257520877, 53.0792363043431, -480.69851870538747] -> [674.4156372865084, 59.81423625904357, 544.5089811563297] returning empty list! this might break things
+[24Jan2025 17:20:52.058] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-348.57108032513736, 56.23965019334233, -474.59106627748776] -> [676.6364195365799, 62.9746501480428, 550.6164335842294] returning empty list! this might break things
+[24Jan2025 17:20:57.058] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-348.57108032513736, 56.23965019334233, -474.59106627748776] -> [676.6364195365799, 62.9746501480428, 550.6164335842294] returning empty list! this might break things
+[24Jan2025 17:21:02.061] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-344.1168292598107, 57.07250001669037, -479.07486270259216] -> [681.0906706019066, 63.80749997139084, 546.1326371591251] returning empty list! this might break things
+[24Jan2025 17:21:07.108] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-350.79186257520877, 53.0792363043431, -480.69851870538747] -> [674.4156372865084, 59.81423625904357, 544.5089811563297] returning empty list! this might break things
+[24Jan2025 17:21:12.109] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-350.79186257520877, 53.0792363043431, -480.69851870538747] -> [674.4156372865084, 59.81423625904357, 544.5089811563297] returning empty list! this might break things
+[24Jan2025 17:21:17.160] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-344.1168292598107, 58.58250001669114, -479.07486270259216] -> [681.0906706019066, 65.31749997139161, 546.1326371591251] returning empty list! this might break things
+[24Jan2025 17:21:22.206] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-345.3063635280115, 54.57015508532529, -477.726864378887] -> [679.9011363337057, 61.30515504002576, 547.4806354828303] returning empty list! this might break things
+[24Jan2025 17:21:27.206] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-343.69171924272575, 59.064350983770744, -470.8180110820885] -> [681.5157806189915, 65.7993509384712, 554.3894887796287] returning empty list! this might break things
+[24Jan2025 17:21:32.306] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-345.3063635280115, 54.57015508532529, -477.726864378887] -> [679.9011363337057, 61.30515504002576, 547.4806354828303] returning empty list! this might break things
+[24Jan2025 17:21:37.308] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-345.3063635280115, 54.57015508532529, -477.726864378887] -> [679.9011363337057, 61.30515504002576, 547.4806354828303] returning empty list! this might break things
+[24Jan2025 17:21:42.406] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-345.3063635280115, 54.57015508532529, -477.726864378887] -> [679.9011363337057, 61.30515504002576, 547.4806354828303] returning empty list! this might break things
+[24Jan2025 17:21:47.407] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-345.3063635280115, 54.57015508532529, -477.726864378887] -> [679.9011363337057, 61.30515504002576, 547.4806354828303] returning empty list! this might break things
+[24Jan2025 17:22:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya has made the advancement [Stone Age]
+[24Jan2025 17:22:11.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya has made the advancement [Getting an Upgrade]
+[24Jan2025 17:22:42.802] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/526, l='ServerLevel[world]', x=1.66, y=64.56, z=23.93] died, message: 'Unemployed suffocated in a wall'
+[24Jan2025 17:23:10.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo has made the advancement [Acquire Hardware]
+[24Jan2025 17:23:21.499] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-151}
+[24Jan2025 17:23:21.500] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-150}
