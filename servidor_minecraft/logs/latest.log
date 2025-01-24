@@ -1748,3 +1748,91 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [24Jan2025 17:23:10.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo has made the advancement [Acquire Hardware]
 [24Jan2025 17:23:21.499] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-151}
 [24Jan2025 17:23:21.500] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-150}
+[24Jan2025 17:23:46.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:39937] logged in with entity id 6428 at (9.5, 68.0, -1.5)
+[24Jan2025 17:23:47.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[24Jan2025 17:23:48.035] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[24Jan2025 17:23:48.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Ice and Fire]
+[24Jan2025 17:23:48.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Critters n' Crawlers]
+[24Jan2025 17:24:11.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo has made the advancement [Suit Up]
+[24Jan2025 17:24:16.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Disconnected
+[24Jan2025 17:24:16.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[24Jan2025 17:24:16.987] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jan2025 17:24:28.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:39653] logged in with entity id 6903 at (9.420054123732372, 68.0, -1.532172345313522)
+[24Jan2025 17:24:28.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[24Jan2025 17:24:29.042] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[24Jan2025 17:24:31.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Stone Age]
+[24Jan2025 17:24:49.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> wtf
+[24Jan2025 17:24:54.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> why so serious
+[24Jan2025 17:25:02.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> loco entré y se me bugueó
+[24Jan2025 17:25:06.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> aparecí en el espacio
+[24Jan2025 17:25:07.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattyaya> XDDDDDDD
+[24Jan2025 17:25:10.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Sweet Dreams]
+[24Jan2025 17:25:18.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> juan
+[24Jan2025 17:25:26.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> hay hasta un mod del espacio
+[24Jan2025 17:25:29.366] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[24Jan2025 17:25:31.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> te voy a llevar ahi y te voy a abandonar
+[24Jan2025 17:25:44.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> a vos tambien gustambo
+[24Jan2025 17:25:45.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattyaya lost connection: Disconnected
+[24Jan2025 17:25:45.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya left the game
+[24Jan2025 17:25:48.294] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@76a26a4c[id=<null>,name=Mtaep,properties={},legacy=false] (/127.26.83.68:46239): Took too long to log in
+[24Jan2025 17:25:48.295] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76a26a4c[id=<null>,name=Mtaep,properties={},legacy=false] (/127.26.83.68:46239) lost connection: Took too long to log in
+[24Jan2025 17:25:48.333] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jan2025 17:26:20.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> saquearon toda la aldea XD
+[24Jan2025 17:26:24.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> eliass saki
+[24Jan2025 17:26:29.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> salii
+[24Jan2025 17:26:30.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> SALITE ELIAS
+[24Jan2025 17:26:31.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> para dormir
+[24Jan2025 17:26:45.283] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-355.1037499308586, 49.9825000166893, -484.1037499308586] -> [670.1037499308586, 56.71749997138977, 541.1037499308586] returning empty list! this might break things
+[24Jan2025 17:26:45.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Disconnected
+[24Jan2025 17:26:45.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[24Jan2025 17:27:00.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroo lost connection: Disconnected
+[24Jan2025 17:27:00.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo left the game
+[24Jan2025 17:27:24.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cattyaya[/127.139.182.176:46749] logged in with entity id 7921 at (-20.506313443148485, 67.0, -37.30000001192093)
+[24Jan2025 17:27:25.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya joined the game
+[24Jan2025 17:27:25.543] [Server thread/INFO] [Jade/]: Syncing config to Cattyaya (759b08f7-ad39-37c0-8591-ad182799953b)
+[24Jan2025 17:27:26.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zitroo[/127.81.187.143:45957] logged in with entity id 8052 at (33.651468975906916, 67.0, -28.23750001192093)
+[24Jan2025 17:27:27.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo joined the game
+[24Jan2025 17:27:27.900] [Server thread/INFO] [Jade/]: Syncing config to Zitroo (140917c5-1b47-31ef-bc0f-8b22892b6012)
+[24Jan2025 17:27:35.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:47143] logged in with entity id 8137 at (63.308151795762605, 63.0, 24.498775210309155)
+[24Jan2025 17:27:36.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[24Jan2025 17:27:36.807] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[24Jan2025 17:27:59.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo has made the advancement [Isn't It Iron Pick]
+[24Jan2025 17:28:05.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> pw no durmieron alv
+[24Jan2025 17:28:05.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[24Jan2025 17:28:05.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[24Jan2025 17:28:10.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AOSBIK lost connection: Disconnected
+[24Jan2025 17:28:10.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK left the game
+[24Jan2025 17:28:20.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattyaya lost connection: Disconnected
+[24Jan2025 17:28:20.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya left the game
+[24Jan2025 17:28:21.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo has made the advancement [Sweet Dreams]
+[24Jan2025 17:28:27.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:60607] logged in with entity id 8371 at (63.308151795762605, 63.0, 24.498775210309155)
+[24Jan2025 17:28:28.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[24Jan2025 17:28:28.239] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[24Jan2025 17:28:32.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AOSBIK[/127.139.21.216:60165] logged in with entity id 8412 at (-340.5, 78.5625, 232.5)
+[24Jan2025 17:28:33.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK joined the game
+[24Jan2025 17:28:33.317] [Server thread/INFO] [Jade/]: Syncing config to AOSBIK (81694b00-8d6f-3d43-9e8d-a4ce009c2300)
+[24Jan2025 17:28:34.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cattyaya[/127.139.182.176:45221] logged in with entity id 8448 at (-19.92074040123075, 67.0, -37.82264291025332)
+[24Jan2025 17:28:35.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya joined the game
+[24Jan2025 17:28:35.634] [Server thread/INFO] [Jade/]: Syncing config to Cattyaya (759b08f7-ad39-37c0-8591-ad182799953b)
+[24Jan2025 17:28:40.116] [Server thread/WARN] [tombstone/]: The death event of the player Cattyaya was canceled by another mod
+[24Jan2025 17:28:40.151] [Server thread/INFO] [tombstone/]: The player Cattyaya has successfully been saved
+[24Jan2025 17:28:57.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[24Jan2025 17:28:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[24Jan2025 17:28:59.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya was blown up by Creeper
+[24Jan2025 17:28:59.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattyaya has made the advancement [Your First Grave]
+[24Jan2025 17:30:09.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:42367] logged in with entity id 9160 at (63.308151795762605, 63.0, 24.498775210309155)
+[24Jan2025 17:30:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[24Jan2025 17:30:10.932] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[24Jan2025 17:30:40.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[24Jan2025 17:30:40.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[24Jan2025 17:31:16.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:35303] logged in with entity id 9614 at (63.308151795762605, 63.0, 24.498775210309155)
+[24Jan2025 17:31:17.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[24Jan2025 17:31:17.933] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[24Jan2025 17:31:47.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[24Jan2025 17:31:47.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[24Jan2025 17:33:22.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mtaep[/127.26.83.68:54743] logged in with entity id 10898 at (10.5, 68.0, -0.5)
+[24Jan2025 17:33:23.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep joined the game
+[24Jan2025 17:33:23.392] [Server thread/INFO] [Jade/]: Syncing config to Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e)
+[24Jan2025 17:33:23.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Ice and Fire]
+[24Jan2025 17:33:23.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Critters n' Crawlers]
+[24Jan2025 17:33:37.275] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-344.1037499308586, 51.9825000166893, -477.1037499308586] -> [681.1037499308586, 58.71749997138977, 548.1037499308586] returning empty list! this might break things
