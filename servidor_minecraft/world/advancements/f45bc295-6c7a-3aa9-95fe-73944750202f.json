@@ -1823,6 +1823,60 @@
     },
     "done": true
   },
+  "cnc:harmless_snakeadvancement": {
+    "criteria": {
+      "harmless_snakeadvancement_0": "2025-01-24 18:01:44 +0000"
+    },
+    "done": true
+  },
+  "cnc:timberwolfadvancement": {
+    "criteria": {
+      "timberwolfadvancement_0": "2025-01-24 18:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-24 18:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 18:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-24 18:03:13 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-01-24 18:03:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-01-24 18:03:44 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/charcoal_from_fragment": {
+    "criteria": {
+      "has_charcoal": "2025-01-24 18:03:44 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/charcoal_fragment": {
+    "criteria": {
+      "has_charcoal": "2025-01-24 18:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-01-24 18:04:03 +0000"
@@ -1865,12 +1919,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-01-24 18:03:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
     "criteria": {
       "has_birch_planks": "2025-01-24 18:04:03 +0000"
@@ -1886,24 +1934,6 @@
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-01-24 18:04:03 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/coal": {
-    "criteria": {
-      "has_coal": "2025-01-24 18:03:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-01-24 18:03:13 +0000"
-    },
-    "done": true
-  },
-  "malum:recipes/misc/charcoal_from_fragment": {
-    "criteria": {
-      "has_charcoal": "2025-01-24 18:03:44 +0000"
     },
     "done": true
   },
@@ -1925,39 +1955,15 @@
     },
     "done": true
   },
-  "brewery:recipes/wooden_brewingstation": {
-    "criteria": {
-      "has_furnace": "2025-01-24 18:03:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-24 18:04:03 +0000"
     },
     "done": true
   },
-  "l2complements:recipes/burnt/burnt/cooked_porkchop": {
-    "criteria": {
-      "has_cooked_porkchop": "2025-01-24 18:05:16 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2025-01-24 18:04:03 +0000"
-    },
-    "done": true
-  },
-  "cnc:timberwolfadvancement": {
-    "criteria": {
-      "timberwolfadvancement_0": "2025-01-24 18:02:03 +0000"
-    },
-    "done": true
-  },
-  "malum:recipes/misc/charcoal_fragment": {
-    "criteria": {
-      "has_charcoal": "2025-01-24 18:03:44 +0000"
     },
     "done": true
   },
@@ -1979,21 +1985,9 @@
     },
     "done": true
   },
-  "cnc:harmless_snakeadvancement": {
-    "criteria": {
-      "harmless_snakeadvancement_0": "2025-01-24 18:01:44 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
     "criteria": {
       "has_birch_planks": "2025-01-24 18:04:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-01-24 18:03:03 +0000"
     },
     "done": true
   },
@@ -2008,12 +2002,6 @@
       "has_planks": "2025-01-24 18:04:03 +0000"
     },
     "done": true
-  },
-  "recrafted_creatures:unfamiliar_fauna": {
-    "criteria": {
-      "owl": "2025-01-24 18:05:36 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
@@ -2039,18 +2027,6 @@
     },
     "done": true
   },
-  "recrafted_creatures:root": {
-    "criteria": {
-      "requirement": "2025-01-24 18:05:36 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/pork_knuckle": {
-    "criteria": {
-      "has_cooked_porkchop": "2025-01-24 18:05:16 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
       "has_birch_planks": "2025-01-24 18:04:03 +0000"
@@ -2060,6 +2036,168 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-24 18:04:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_porkchop": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-24 18:05:16 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-24 18:05:16 +0000"
+    },
+    "done": true
+  },
+  "recrafted_creatures:unfamiliar_fauna": {
+    "criteria": {
+      "owl": "2025-01-24 18:05:36 +0000"
+    },
+    "done": false
+  },
+  "recrafted_creatures:root": {
+    "criteria": {
+      "requirement": "2025-01-24 18:05:36 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 18:24:01 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-24 18:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-24 18:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-24 18:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-24 18:22:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/blueberry_pie": {
+    "criteria": {
+      "has_blueberries": "2025-01-24 18:14:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-24 18:24:03 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "cnc:mouseadvancement": {
+    "criteria": {
+      "mouseadvancement_0": "2025-01-24 18:08:16 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2025-01-24 18:14:38 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-24 18:22:26 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-01-24 18:15:12 +0000"
     },
     "done": true
   },
