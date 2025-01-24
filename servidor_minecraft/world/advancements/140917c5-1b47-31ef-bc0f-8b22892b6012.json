@@ -2890,9 +2890,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-24 17:32:33 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/emerald": {
     "criteria": {
       "has_emerald": "2025-01-24 17:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-24 17:32:33 +0000"
     },
     "done": true
   },
@@ -2908,9 +2920,21 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-01-24 17:39:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-24 17:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-24 17:32:33 +0000"
     },
     "done": true
   },
