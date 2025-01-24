@@ -329,6 +329,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-01-24 17:13:03 +0000",
+      "minecraft:river": "2025-01-24 18:30:02 +0000",
       "minecraft:snowy_plains": "2025-01-24 17:09:36 +0000",
       "minecraft:snowy_taiga": "2025-01-24 17:34:10 +0000",
       "minecraft:dripstone_caves": "2025-01-24 18:03:09 +0000",
@@ -3087,7 +3088,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-24 17:44:14 +0000",
+      "cooked_beef": "2025-01-24 18:29:13 +0000",
       "cooked_rabbit": "2025-01-24 18:15:42 +0000",
+      "cooked_chicken": "2025-01-24 18:31:54 +0000",
       "carrot": "2025-01-24 17:20:41 +0000"
     },
     "done": false
@@ -4009,6 +4012,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-24 18:21:15 +0000",
+      "minecraft:spider": "2025-01-24 18:28:33 +0000",
+      "minecraft:creeper": "2025-01-24 18:31:44 +0000",
       "minecraft:zombie": "2025-01-24 18:00:26 +0000"
     },
     "done": false
@@ -4193,6 +4198,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-24 18:27:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-01-24 18:26:27 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/natural_quartz_from_blasting": {
+    "criteria": {
+      "has_natural_quartz": "2025-01-24 18:26:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-01-24 18:19:09 +0000"
@@ -4202,6 +4225,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 18:08:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-01-24 18:25:03 +0000"
     },
     "done": true
   },
@@ -4226,6 +4255,12 @@
   "malum:recipes/misc/brilliance_from_block": {
     "criteria": {
       "has_brilliance": "2025-01-24 18:09:00 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-24 18:25:39 +0000"
     },
     "done": true
   },
@@ -4262,6 +4297,12 @@
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2025-01-24 18:19:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-01-24 18:26:27 +0000"
     },
     "done": true
   },
@@ -4325,6 +4366,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-24 18:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-24 18:28:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-01-24 18:19:09 +0000"
@@ -4346,6 +4399,18 @@
   "malum:recipes/misc/brilliance_from_deepslate_smelting": {
     "criteria": {
       "has_brilliance": "2025-01-24 18:09:00 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/natural_quartz_from_deepslate_blasting": {
+    "criteria": {
+      "has_natural_quartz": "2025-01-24 18:26:27 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-24 18:25:40 +0000"
     },
     "done": true
   },
@@ -4505,6 +4570,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-01-24 18:26:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-01-24 18:19:09 +0000"
@@ -4526,6 +4597,18 @@
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-01-24 18:19:09 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/natural_quartz_from_smelting": {
+    "criteria": {
+      "has_natural_quartz": "2025-01-24 18:26:27 +0000"
+    },
+    "done": true
+  },
+  "malum:recipes/misc/natural_quartz_from_deepslate_smelting": {
+    "criteria": {
+      "has_natural_quartz": "2025-01-24 18:26:27 +0000"
     },
     "done": true
   },
